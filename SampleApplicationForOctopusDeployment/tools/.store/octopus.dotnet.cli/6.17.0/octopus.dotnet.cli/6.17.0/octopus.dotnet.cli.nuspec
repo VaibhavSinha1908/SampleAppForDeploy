@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Octopus.DotNet.Cli</id>
+    <version>6.17.0</version>
+    <authors>Octopus Deploy</authors>
+    <owners>Octopus Deploy</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://octopusdeploy.com/pricing</licenseUrl>
+    <projectUrl>http://octopusdeploy.com/</projectUrl>
+    <iconUrl>http://i.octopusdeploy.com/resources/Avatar3-32x32.png</iconUrl>
+    <description>Octopus Deploy is an automated release management tool for modern developers and DevOps teams.
+
+      This package contains the client library for the HTTP API in Octopus.</description>
+    <copyright>Octopus Deploy Pty Ltd</copyright>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/OctopusDeploy/OctopusCli" />
+  </metadata>
+</package>

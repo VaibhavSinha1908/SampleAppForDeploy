@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\source\repos\SampleApplicationForOctopusDeployment\SampleApplicationForOctopusDeployment\tools\.store\.stage\u1jsjxg4.mo5</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\vaibhav\source\repos\SampleApplicationForOctopusDeployment\SampleApplicationForOctopusDeployment\tools\.store\.stage\u1jsjxg4.mo5</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.4.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgOctopus_DotNet_Cli Condition=" '$(PkgOctopus_DotNet_Cli)' == '' ">C:\Users\vaibhav\source\repos\SampleApplicationForOctopusDeployment\SampleApplicationForOctopusDeployment\tools\.store\.stage\u1jsjxg4.mo5\octopus.dotnet.cli\6.17.0</PkgOctopus_DotNet_Cli>
+  </PropertyGroup>
+</Project>

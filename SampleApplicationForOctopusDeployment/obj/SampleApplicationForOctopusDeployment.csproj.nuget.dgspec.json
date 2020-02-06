@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vaibhav\\source\\repos\\SampleApplicationForOctopusDeployment\\SampleApplicationForOctopusDeployment\\SampleApplicationForOctopusDeployment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vaibhav\\source\\repos\\SampleApplicationForOctopusDeployment\\SampleApplicationForOctopusDeployment\\SampleApplicationForOctopusDeployment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vaibhav\\source\\repos\\SampleApplicationForOctopusDeployment\\SampleApplicationForOctopusDeployment\\SampleApplicationForOctopusDeployment.csproj",
+        "projectName": "SampleApplicationForOctopusDeployment",
+        "projectPath": "C:\\Users\\vaibhav\\source\\repos\\SampleApplicationForOctopusDeployment\\SampleApplicationForOctopusDeployment\\SampleApplicationForOctopusDeployment.csproj",
+        "packagesPath": "C:\\Users\\vaibhav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vaibhav\\source\\repos\\SampleApplicationForOctopusDeployment\\SampleApplicationForOctopusDeployment\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vaibhav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.CookiePolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "OctoPack": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.6.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
